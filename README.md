@@ -6,6 +6,6 @@
 - 📫 How to reach me oluwabiabayomi@gmail.com 
 
 <!---
-Abayomi007/Abayomi007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abayomi007/Abayomi007 is a ✨ Data ✨ Scientist with about 12 month experience database mangement and is experience in the use of programing languages like SQL, Python to query data `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
